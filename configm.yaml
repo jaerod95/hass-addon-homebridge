@@ -1,0 +1,11 @@
+name: "Homebridge"
+description: "A home assistant port of homebridge"
+version: "1.0.0"
+slug: "homebridge_hass_os"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
